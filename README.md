@@ -5,9 +5,9 @@ Renegadito es un Sumo RC, el cual fue diseñado con la intención de hacerlo com
 
 
 ## CARACTERÍSTICAS
-Renegadito cuenta con:
-2-Motor reductores JGA25-370 de 280 RPM
-2- Puente H TA6586
-1-ESP32
-1-Bateria de Li-po 3s de 1050mAh
- Peso: 1.8Kg
+- Renegadito cuenta con:
+- 2-Motor reductores JGA25-370 de 280 RPM
+- 2- Puente H TA6586
+- 1-ESP32
+- 1-Bateria de Li-po 3s de 1050mAh
+- Peso: 1.8Kg
