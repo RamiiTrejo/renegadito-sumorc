@@ -1,2 +1,3 @@
+## RENEGADITO
 
-![Imagen de WhatsApp 2025-11-21 a las 21 35 45_cde6299f](https://github.com/user-attachments/assets/52a27b8b-a4d4-491e-b16a-db849ad70f44)
+![Imagen de WhatsApp 2025-11-21 a las 21 36 59_38645dbb](https://github.com/user-attachments/assets/257c33a4-553f-4cda-b3cf-99ea15460f61)
